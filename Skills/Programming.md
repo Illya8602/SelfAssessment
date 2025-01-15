@@ -9,18 +9,18 @@
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm k
-  - Programming paradigm 
-  - Programming language k
+  - Programm: 🎓 known
+  - Programming paradigm
+  - Programming language: 🎓 known
   - Contract
   - Module
-  - Library k
+  - Library: 🎓 known
   - Package
   - Component
   - Framework
   - Platform
   - Source code
-  - Object code k
+  - Object code: 🎓 known
   - Machine code
   - Microcode
   - Software engineering
@@ -32,7 +32,7 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value k
+  - Value: 🎓 known
   - Identifier
   - Variable
   - Constant
@@ -40,13 +40,13 @@
   - Literal
   - Expression
   - Heap
-  - Function k
+  - Function: 🎓 known
   - Procedure
   - Method
-  - Class k
+  - Class: 🎓 known
   - Prototype
   - Event
-  - Type k
+  - Type: 🎓 known
   - Flag
   - Lexical scope
   - Code block
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument k
-  - Parameter k
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
   - Pure function
   - Lambda expression
   - Side effects
@@ -93,7 +93,7 @@
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback 
+  - Callback
   - Listener
   - Composition
   - Pipe
@@ -105,14 +105,14 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array k
+  - Array: 🎓 known
   - Structure
   - Record
   - Enum
   - Instance
-  - Object k
+  - Object: 🎓 known
   - Collection
-  - Set k
+  - Set: 🎓 known
   - Hash table
   - Linked list
   - Doubly list
@@ -138,11 +138,11 @@
   - IPv4
   - IPv6
   - NAT
-  - URL k
+  - URL: 🎓 known
   - URN
-  - URI k
+  - URI: 🎓 known
 - Process and tools
-  - Compiler k
+  - Compiler: 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger h
+  - Debugger: 👂 heard
   - Tracing
   - Garbage collection
-  - Refactoring k
-  - Code review h
+  - Refactoring: 🎓 known
+  - Code review: 👂 heard
   - Exception
   - Unittesting
-  - git k
-  - Github k
+  - git: 🎓 known
+  - Github: 🎓 known
   - Docker
   - Kubernetes
   - GCC
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux k
+  - Linux: 🎓 known
   - Unix
   - BSD
-  - MacOS h
-  - Windows u
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
