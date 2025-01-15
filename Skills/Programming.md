@@ -9,18 +9,18 @@
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm k
-  - Programming paradigm 
-  - Programming language k
+  - Programm: 🎓 known
+  - Programming paradigm
+  - Programming language: 🎓 known
   - Contract
   - Module
-  - Library
+  - Library: 🎓 known
   - Package
   - Component
   - Framework
   - Platform
   - Source code
-  - Object code
+  - Object code: 🎓 known
   - Machine code
   - Microcode
   - Software engineering
@@ -32,7 +32,7 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value: 🎓 known
   - Identifier
   - Variable
   - Constant
@@ -40,13 +40,13 @@
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function: 🎓 known
   - Procedure
   - Method
-  - Class
+  - Class: 🎓 known
   - Prototype
   - Event
-  - Type
+  - Type: 🎓 known
   - Flag
   - Lexical scope
   - Code block
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,14 +105,14 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array: 🎓 known
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object: 🎓 known
   - Collection
-  - Set
+  - Set: 🎓 known
   - Hash table
   - Linked list
   - Doubly list
@@ -138,11 +138,11 @@
   - IPv4
   - IPv6
   - NAT
-  - URL k
+  - URL: 🎓 known
   - URN
-  - URI
+  - URI: 🎓 known
 - Process and tools
-  - Compiler
+  - Compiler: 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 👂 heard
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring: 🎓 known
+  - Code review: 👂 heard
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git: 🎓 known
+  - Github: 🎓 known
   - Docker
   - Kubernetes
   - GCC
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux 
+  - Linux: 🎓 known
   - Unix
   - BSD
-  - MacOS h
-  - Windows u
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards

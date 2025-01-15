@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
+  - `Object`: 🎓 known
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
+  - `BigInt`k
+  - `String`: 🎓 known
   - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof`: 🎓 known
   - Destructuring
   - Generators
   - Iterators
@@ -59,16 +59,16 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if`: 🎓 known
+  - `while`: 🎓 known
+  - `do..while`: 🎓 known
+  - `for`: 🎓 known
+  - `for..in`: 🎓 known
+  - `for..of`: 🎓 known
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
+  - `throw`: 🎓 known
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
   - `import`
   - `export`
   - `label`
@@ -77,7 +77,7 @@
   - `class`
   - `extends`
   - `with`
-  - `new`
+  - `new`: 🎓 known
 - Functions
   - Arrow function
   - Async function
@@ -88,9 +88,9 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return`: 🎓 known
 - Data structures
-  - `Array`
+  - `Array`: 🎓 known
   - `Map`
   - `Set`
   - `WeakMap`
@@ -111,11 +111,11 @@
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console`: 🎓 known
   - Timers
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js: 🖐️ used
   - npm
   - prettier
   - MDN
