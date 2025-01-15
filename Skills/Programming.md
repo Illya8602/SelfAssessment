@@ -14,13 +14,13 @@
   - Programming language k
   - Contract
   - Module
-  - Library
+  - Library k
   - Package
   - Component
   - Framework
   - Platform
   - Source code
-  - Object code
+  - Object code k
   - Machine code
   - Microcode
   - Software engineering
@@ -32,7 +32,7 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value k
   - Identifier
   - Variable
   - Constant
@@ -40,13 +40,13 @@
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function k
   - Procedure
   - Method
-  - Class
+  - Class k
   - Prototype
   - Event
-  - Type
+  - Type k
   - Flag
   - Lexical scope
   - Code block
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument k
+  - Parameter k
   - Pure function
   - Lambda expression
   - Side effects
@@ -93,7 +93,7 @@
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback 
   - Listener
   - Composition
   - Pipe
@@ -105,14 +105,14 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array k
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object k
   - Collection
-  - Set
+  - Set k
   - Hash table
   - Linked list
   - Doubly list
@@ -140,9 +140,9 @@
   - NAT
   - URL k
   - URN
-  - URI
+  - URI k
 - Process and tools
-  - Compiler
+  - Compiler k
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger h
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring k
+  - Code review h
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git k
+  - Github k
   - Docker
   - Kubernetes
   - GCC
@@ -214,7 +214,7 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux 
+  - Linux k
   - Unix
   - BSD
   - MacOS h

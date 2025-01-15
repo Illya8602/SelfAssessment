@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
+  - `Object` k
+  - `Function` k
+  - `Boolean` k
+  - `Number` k
+  - `BigInt`k
+  - `String` k
   - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `Infinity` k
+  - `NaN` k
+  - `undefined` k
+  - `null` k
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` k
   - Destructuring
   - Generators
   - Iterators
@@ -59,16 +59,16 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` k
+  - `while` k
+  - `do..while` k
+  - `for` k
+  - `for..in` k
+  - `for..of` k
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
+  - `throw` k
+  - `break` k
+  - `continue` k
   - `import`
   - `export`
   - `label`
@@ -77,7 +77,7 @@
   - `class`
   - `extends`
   - `with`
-  - `new`
+  - `new` k
 - Functions
   - Arrow function
   - Async function
@@ -88,9 +88,9 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` k
 - Data structures
-  - `Array`
+  - `Array` k
   - `Map`
   - `Set`
   - `WeakMap`
@@ -111,11 +111,11 @@
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console` k
   - Timers
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js u
   - npm
   - prettier
   - MDN

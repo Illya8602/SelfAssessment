@@ -5,7 +5,7 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming k
   - Prototype-based programming
   - Object-oriented programming
   - Object-based programming
@@ -28,7 +28,7 @@
   - Class composition
 - OOP basics
   - Constructor
-  - Operator `new`
+  - Operator `new` h
   - Static method
   - Method
   - Async method
