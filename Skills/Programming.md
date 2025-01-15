@@ -9,9 +9,9 @@
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Programm k
+  - Programming paradigm 
+  - Programming language k
   - Contract
   - Module
   - Library
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL k
   - URN
   - URI
 - Process and tools
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux 
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
